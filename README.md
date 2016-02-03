@@ -1,7 +1,8 @@
 # MongoDB-JS-queries
 Scripts of queries for MongoDB
+Part of the project "Handling Big Data: Performance Comparison for MySQL, MongoDB and Redis"
 
-In this project we test 3 various types of storage systems MongoDB, MySQL and Redis) and measure their performance while handling operations on a large dataset of more than 7 million rows. 
+In this project we test 3 various types of storage systems MongoDB, MySQL and Redis and measure their performance while handling operations on a large dataset of more than 7 million rows. 
 
 This repository contains files for MongoDB part of the project.
 
